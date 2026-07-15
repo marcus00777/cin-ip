@@ -1,2 +1,2 @@
 # cin-ip
-Questões do cruso de Introdução à Programação
+Questões do curso de Introdução à Programação
